@@ -35,3 +35,9 @@ body{
     z-index: 2;
 }
 
+.white.active{
+    background-color: #CCC;
+}
+.black.active{
+    background-color: #333;
+}
